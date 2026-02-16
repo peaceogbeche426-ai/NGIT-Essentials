@@ -1,0 +1,87 @@
+1. Define a computer and explain the difference between hardware and software (3 examples each)
+A computer is an electronic machine that accepts data, processes it, stores it, and gives out information.
+Hardware  means the physical parts of a computer you can touch.
+Examples:
+Keyboard
+Monitor
+Mouse
+Software  means the programs or applications that tell the computer what to do.
+Examples:
+Windows Operating System
+Microsoft Word
+Google Chrome
+
+2. What is an operating system? State two primary functions
+An operating system (OS) is the main software that controls and manages the computer.
+Two primary functions:
+1. It helps you interact with the computer (through the screen and apps).
+2. It manages hardware resources like memory, files, and devices.
+Examples: Windows, Linux, macOS.
+
+3. Compare Windows and Linux (3 differences)
+ Cost: Windows is paid, Linux is mostly free.
+Ease of use: Windows is easier for beginners, Linux needs more technical knowledge.
+Customization: Linux is more flexible and customizable than Windows.
+
+4. Explain these terms
+File
+A file is a saved piece of information on a computer, like a document, picture, or video.
+Folder (Directory)
+A folder is a container used to organize files, like a bag holding documents.
+File extension
+A file extension is the ending part of a file name that shows its type.
+Examples:
+.txt (text file)
+.jpg (image file)
+.mp3 (audio file)
+
+5. What is the command line and why is it important for developers?
+The command line is a tool where you type text commands to control the computer instead of clicking with a mouse.
+It is important because developers use it to:
+Run programs
+Manage files quickly
+Use tools like Git and programming frameworks
+
+6. Define these internet-related terms
+Server
+A server is a computer that provides services or data to other computers online.
+Browser
+A browser is an application used to access websites.
+Examples: Chrome, Firefox, Edge.
+IP Address
+An IP address is a unique number that identifies a device on the internet, like a house address.
+DNS
+DNS (Domain Name System) changes website names (like google.com) into IP addresses.
+HTTP vs HTTPS
+HTTP is not secure.
+HTTPS is secure because it encrypts data, protecting users from hackers.
+
+7. Describe the client–server model with an example	
+The client–server model is a system where one computer requests information and another provides it.
+Example:
+When you open Facebook on your phone (client), Facebook’s server sends the page and data back to you.
+
+8. Differentiate between frontend and backend development
+Frontend development deals with what users see on a website.
+Examples: buttons, layout, colors.
+Backend development deals with what happens behind the scenes.
+Examples: databases, login systems, server logic.
+
+9. Explain website, domain, and hosting and how they work together
+A website is the content users view online.
+A domain is the website’s name (e.g., www.example.com).
+Hosting is the place (server) where the website files are stored.
+They work together like this:
+Domain = address, Hosting = house, Website = things inside the house.
+
+10. Briefly describe the browser rendering process
+Browser rendering is how a browser displays a webpage.
+Steps:
+1. Browser downloads HTML, CSS, and JavaScript files.
+2. It reads and understands the structure of the page.
+3. It styles the page and shows it on the screen.
+
+
+
+
+

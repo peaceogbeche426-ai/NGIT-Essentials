@@ -1,0 +1,6 @@
+During Week 1,
+I learned essential development collaboration tools including Git and GitHub for version control and developers collaboration.
+VS Code for understanding development environment and project structure.
+Command-Lines basics (pwd,cd,mkdir) for file navigation.
+I studied internet fundamentals including DNS,HTTP, and how browsers work, which directly impacts UX decision around page loading and web performance.
+I was also introduced to computer (hardware and software) and operating system basics (CPU,RAM,Storage,Software layers) to understand the technical constaints and capabilities of the platforms you design for.

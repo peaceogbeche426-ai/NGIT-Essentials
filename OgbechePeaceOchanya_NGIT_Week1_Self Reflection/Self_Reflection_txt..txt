@@ -1,0 +1,9 @@
+
+For a web developer, understanding computers, operating systems, and how the web functions is a fundamental requirement before writing any code. 
+This knowledge provides a strong foundation for building efficient, reliable, and secure applications. By understanding how operating systems manage memory, processes, and resources, developers can optimize their code to run smoothly across different platforms. 
+Knowledge of web protocols, browsers, and server-client interactions enables developers to design applications that perform well under various network conditions. It also allows them to troubleshoot errors effectively and anticipate potential compatibility issues. 
+Understanding the underlying technology of the web helps developers make informed decisions when selecting tools, frameworks, or libraries. 
+This foundation promotes best practices in coding, security, and user experience. Ultimately, having a solid grasp of these core concepts ensures that a web developer can create robust and scalable solutions while adapting to evolving technologies.
+
+
+

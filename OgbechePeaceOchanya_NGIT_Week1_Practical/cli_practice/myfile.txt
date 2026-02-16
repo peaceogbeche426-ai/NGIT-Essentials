@@ -1,0 +1,11 @@
+cd desktop\web_basics       Move into the web basis folder on desktop
+
+mkdir cli_practice          Create a new folder called cli_practice
+
+cd cli_practice             Move into the cli_practice
+
+echo.>test.txt              Createan empty folder called test.txt
+
+rename test.txt myfile.txt  Change the file name from my test.txt to myfile txt
+
+dir                         List all files and folders in the current folder
